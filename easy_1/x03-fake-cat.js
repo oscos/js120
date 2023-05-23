@@ -26,7 +26,7 @@
 */
 
 class Cat {
-  constructor(name) {
+  constructor(name="Jerry") {
     this.name = name;
   }
   speaks() {
